@@ -240,13 +240,13 @@ fun MusicPageTop(modifier: Modifier = Modifier) {
                 modifier = Modifier.padding(10.dp)
             ) {
                 AlbumCover(
-                    img = R.drawable.download3,
+                    img = R.drawable.download5,
                     title = "Bad State of Mind - Single",
                     artist = "Treaty Oak Revival",
                     modifier = Modifier.weight(1f)
                 )
                 AlbumCover(
-                    img = R.drawable.download4,
+                    img = R.drawable.download6,
                     title = "Old Boots, New Dirt",
                     artist = "Jason Aldean",
                     modifier = Modifier.weight(1f)
